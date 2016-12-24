@@ -1,4 +1,4 @@
 # upturk.com
-A personal portfolio page
+A personal portfolio web page
 by Turk
 
