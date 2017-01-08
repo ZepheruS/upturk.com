@@ -1,2 +1,6 @@
+# ignore "no keep *.txt" in root directory
+/gulpfile.js
+
+
 # ignore "all" file in directory "node_modules" in root directory
 /node_modules/
